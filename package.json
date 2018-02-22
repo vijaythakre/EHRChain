@@ -1,0 +1,24 @@
+{
+  "name": "ehrchain",
+  "version": "1.0.0",
+  "description": "NodeJS Blockchain implementation - Storing Electronic Health Record in distributed manner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaythakre/EHRChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaythakre/EHRChain/issues"
+  },
+  "homepage": "https://github.com/vijaythakre/EHRChain#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "ws": "^3.3.2"
+  }
+}
